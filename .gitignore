@@ -1,0 +1,7 @@
+# Sublime Text
+*.sublime-session
+*.sublime-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]

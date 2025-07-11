@@ -1,0 +1,9 @@
+{
+  // The location where your notes will be saved.
+  // You can use an absolute path or a path relative to your home directory.
+  // Examples:
+  // "notes_location": "~/Documents/SublimeNotes",
+  // "notes_location": "C:/Users/YourUser/Documents/MyNotes",
+  // "notes_location": "/Users/YourUser/Desktop/Notes"
+  "notes_location": ""
+}
