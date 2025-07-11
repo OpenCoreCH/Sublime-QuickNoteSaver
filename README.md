@@ -18,7 +18,7 @@ This is the easiest way to install while the plugin is not on Package Control.
 1.  Open Sublime Text and go to `Preferences` > `Browse Packages...`. This will open your `Packages` directory.
 2.  Clone this repository into the `Packages` directory:
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/QuickNoteSaver.git](https://github.com/YOUR_USERNAME/QuickNoteSaver.git)
+    git clone https://github.com/OpenCoreCH/QuickNoteSaver.git
     ```
 3.  Restart Sublime Text.
 
