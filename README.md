@@ -8,7 +8,6 @@ A simple but powerful Sublime Text plugin to instantly save an unsaved buffer (a
 - **Timestamped Filenames:** Automatically names files with a `YYYY-MM-DD_HH-MM-SS` format for easy sorting and reference.
 - **Optional Titles:** Prompts for an optional title, which gets appended to the filename (e.g., `2025-07-11_10-53-01_My-API-Idea.txt`).
 - **Configurable:** Easily set your desired notes directory in a settings file.
-- **Seamless Workflow:** After saving, the temporary tab is closed and the new note file is opened automatically.
 
 ## Installation
 
